@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shankha-GH
-- 👀 I’m interested in ...Developing
+- 👀 I’m interested in ...FrontEnd Developing
 - 🌱 I’m currently learning ...MERN STACK WEB DEVELOPEMENT
-- 💞️ I’m looking to collaborate on ...MERN related projects
+- 💞️ I’m looking to collaborate on ...WEB projects
 - 📫 How to reach me ...7031081816 , insta: ig_SRN
 
 <!---
